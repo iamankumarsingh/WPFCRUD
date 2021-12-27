@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFCRUD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFCRUD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="InsertBtn" Content="Insert" HorizontalAlignment="Left" Height="49" Margin="61,340,0,0" VerticalAlignment="Top" Width="141" Click="InsertBtn_Click"/>
+        <Button x:Name="UpdateBtn" Content="Update" HorizontalAlignment="Left" Height="49" Margin="238,340,0,0" VerticalAlignment="Top" Width="141" Click="UpdateBtn_Click"/>
+        <Button x:Name="DeleteBtn" Content="Delete" HorizontalAlignment="Left" Height="49" Margin="428,340,0,0" VerticalAlignment="Top" Width="139" Click="DeleteBtn_Click"/>
+        <Button x:Name="ClearBtn" Content="Clear" HorizontalAlignment="Left" Height="49" Margin="618,340,0,0" VerticalAlignment="Top" Width="135" Click="ClearBtn_Click"/>
+        <DataGrid x:Name="datagrid" HorizontalAlignment="Left" Height="167" Margin="353,80,0,0" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="name_txt" HorizontalAlignment="Left" Height="36" Margin="125,80,0,0" TextWrapping="Wrap" Text="Enter your name" VerticalAlignment="Top" Width="204"/>
+        <TextBox x:Name="salary_txt" HorizontalAlignment="Left" Height="37" Margin="125,140,0,0" TextWrapping="Wrap" Text="Enter your salary" VerticalAlignment="Top" Width="204"/>
+        <TextBox x:Name="post_txt" HorizontalAlignment="Left" Height="28" Margin="125,201,0,0" TextWrapping="Wrap" Text="Enter your designation" VerticalAlignment="Top" Width="204"/>
+        <Label Content="Name" HorizontalAlignment="Left" Height="36" Margin="10,80,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="Salary" HorizontalAlignment="Left" Height="37" Margin="10,140,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="Designation" HorizontalAlignment="Left" Height="28" Margin="10,201,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="CRUD Operation in c#" HorizontalAlignment="Left" Height="46" Margin="297,10,0,0" VerticalAlignment="Top" Width="140"/>
+        <Label Content="ID" HorizontalAlignment="Left" Height="28" Margin="212,280,0,0" VerticalAlignment="Top" Width="85"/>
+        <TextBox x:Name="search_txt" HorizontalAlignment="Left" Height="28" Margin="327,280,0,0" TextWrapping="Wrap" Text="Enter Id" VerticalAlignment="Top" Width="204"/>
+    </Grid>
+</Window>

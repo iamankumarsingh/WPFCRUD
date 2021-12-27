@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\bin\Debug\WPFCRUD.exe.config
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\bin\Debug\WPFCRUD.exe
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\bin\Debug\WPFCRUD.pdb
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD_MarkupCompile.cache
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD_MarkupCompile.lref
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.g.resources
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.Properties.Resources.resources
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.exe
+C:\Users\DELL\source\repos\WPFCRUD\WPFCRUD\obj\Debug\WPFCRUD.pdb
